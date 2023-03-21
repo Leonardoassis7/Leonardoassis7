@@ -1,6 +1,6 @@
 
 **Leonardoassis7/Leonardoassis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Oi sou o Leonardo Assis, Programação Full Stack!
+## Oi sou o Leonardo Assis, Programador Full Stack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mq" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
